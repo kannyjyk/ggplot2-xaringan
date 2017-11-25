@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/323636/90fa7924984140a88d32383f152ad9aa
+bundleId: https://api.rpubs.com/api/v1/document/323636/90fa7924984140a88d32383f152ad9aa
+url: http://rpubs.com/Kanny/323636
+when: 1509157168.74955
